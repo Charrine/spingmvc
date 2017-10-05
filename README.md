@@ -1,4 +1,2 @@
-#### 电商系统server端api
-    使用spring boot
-
-    
+#### 轻松聊server端api
+    使用spring mvc + mongodb
